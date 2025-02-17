@@ -21,7 +21,7 @@ setInterval(updateTimer, 1000);
 updateTimer();
 
 // Slideshow de fotos
-const images = ["img/gokuChichi.png", "img/vegetaBulma.png", "img/gohanVidel.png"]; // Substituir com suas imagens
+const images = ["img/mp1.png", "img/mp2.png"]; // Substituir com suas imagens
 let index = 0;
 const slide = document.getElementById("slide");
 
